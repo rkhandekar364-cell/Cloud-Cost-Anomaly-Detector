@@ -1,0 +1,4 @@
+UsageStartDate,lineItem/ProductCode,availabilityRegion,lineItem/ResourceId,lineItem/UsageType,lineItem/UsageAmount,unblendedRate,lineItem/UnblendedCost
+2026-01-01,AmazonEC2,us-east-1,i-0a1b2c3d,BoxUsage:t3.medium,24,0.0416,0.9984
+2026-01-01,AmazonS3,us-east-1,prod-data-bucket,StandardStorage,500,0.023,11.5000
+2026-01-02,AmazonRDS,us-west-2,prod-db-1,InstanceUsage:db.m5.large,24,0.38,9.1200

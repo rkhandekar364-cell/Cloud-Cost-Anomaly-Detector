@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+
+# Node & Frontend Build Output
+node_modules/
+dist/
+build/
+.output/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Databases & Logs
+*.db
+*.log
+
+# Uploaded User Billing Data
+data/uploads/
+
